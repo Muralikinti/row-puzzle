@@ -16,7 +16,7 @@ This C++ Puzzle-Solving project is designed to check if a given puzzle row is so
 
 - Run the Program:
 
-      ./puzzle_solver
+      ./row_puzzle
 
 - Input Your Puzzle Row:
 
